@@ -1,7 +1,7 @@
 # This is a test file
 **I want to**
 
-me
+* me
 
 [Slack](https://biolprogramming.slack.com)
 
