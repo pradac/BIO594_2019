@@ -14,11 +14,7 @@ I am relng the contents of this course (e.g. all my notes) under an [open-source
 In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system.  Grading is pretty simple:
 
 Item                                            | Points          | # of assignments  | Total Points  | % of grade
---------                
-
-
-
-| -------------   | ----------------- | ------------- | -------------
+--------| -------------   | ----------------- | ------------- | -------------
 [Class assignments](#class-assignments)         | 25 each         | 22                | 550           | ~55%
 [Class exams](#class-exams)                     | 150 each        | 3                 | 450           | ~45%
 Total                                           |                 |                   | 1000 points   | 100%
