@@ -7,7 +7,7 @@
 
 ## Software License
 
-I am releasing the contents of this course (e.g. all my notes) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
+I am relng the contents of this course (e.g. all my notes) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
 
 ## Grading
 
