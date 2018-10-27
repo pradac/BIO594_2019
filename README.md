@@ -1,8 +1,13 @@
-# This is a test file
-**EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIOL 594)**
 
 
-[Slack](https://biolprogramming.slack.com)
+# EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIOL 594)
+
+
+##Instructor: Carlos Prada, office CBLS 181, phone number: 401 874 5767, [prada@edu](mailto:prada@uri.edu)
+
+
+
+[Slack](https://bio-594.slack.com/)
 
 ## Software License
 
