@@ -88,13 +88,13 @@ Points        | Letter Grade Assigned
 < 600         | F
 
 
-# Class participation
+### Class participation
 (20% of grade). To earn this portion of the grade students must actively contribute to all class discussions.
 
-# Per class summaries
+### Per class summaries
 (30%). Before each week’s discussion, participants will have to submit a 500-word summary of the topic being assigned for that day. Each participant has to submit at least six summaries (5% each). The participant chooses which topics to submit summaries for. It is expected that given feedback by the instructor students improve their written summaries overtime.
 
-# Research proposal
+### Research proposal
 (50% of grade). This will involve writing a four-page proposal (excluding references) that seeks to answer an ecological or evolutionary question with genomic tools. Writing the proposal itself and addressing the panel and reviewer’s comments accounts for 30% of the grade. Providing detailed criticism of the proposals when reviewers or fully engaging in discussions during panels and writing panel summaries accounts for 20% of the grade. 
 
 
