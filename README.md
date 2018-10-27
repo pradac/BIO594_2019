@@ -63,9 +63,9 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
 Item                                               | # of assignments  | % of grade
 --------| -------------   | ----------------
-[Class participation ](#class-assignments)          | 28                   | ~55%
-[Per class summaries] (#Per class summaries)                       | 6                    | ~45%
-[Research proposal]  (#Research proposal)                        | 1                | ~45%
+[Class participation ](#class-assignments)          | 28                   | 20%
+[Per class summaries] (#Per-class-summaries)                       | 6                    | 30%
+[Research proposal]  (#Research-proposal)                        | 1                | 50%
 Total                                           |                     | 100%
 
 
