@@ -35,7 +35,7 @@ After eight weeks, and once students acquire some understanding of the possibili
 
 
 
-## DISCUSSION AND LECTURE TOPICS
+### DISCUSSION AND LECTURE TOPICS
 
 Week      | Topic          
 --------| ------------------------------------------------------------  
