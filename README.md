@@ -3,15 +3,33 @@
 # EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIOL 594)
 
 
-# Instructor:  Carlos Prada, office CBLS 181, phone number: 401 874 5767, [prada@edu](mailto:prada@uri.edu)
-
-
+### Instructor:  Carlos Prada, office CBLS 181, phone number: 401 874 5767, [prada@edu](mailto:prada@uri.edu)
 
 [Slack](https://bio-594.slack.com/)
 
+Level: Graduate
+
 ## Software License
 
-I am relng the contents of this course (e.g. all my notes) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
+All the contents of this course (e.g. all my notes) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
+
+
+
+
+
+Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
+
+Course Materials:
+Papers from the primary literature. All material will be provided via GitHub.
+
+## Course Description:
+
+The course provides an in depth discussion forum for the current research and possibilities to answer long-standing and emerging questions in evolution and ecology using genomic techniques. The course will discuss research articles and reviews with a genomic perspective related to: Population and Conservation Biology; Natural Selection and Adaptation, Functional Genomics; Mendelian and Quantitative Trait Evolution; Epigenetics and Phenotypic Plasticity, Symbiosis, Hybridization; Phylogenomics and Molecular Evolution; Community Ecology and Metabarcoding; Speciation and Adaptive Radiations. The genomic revolution, has not only facilitated to answer old standing questions in ecology and evolution, but has also opened the possibility of new research areas. We will examine how genomic tools that are emerging and changing rapidly are transforming biology. 
+
+
+
+
+
 
 ## Grading
 
