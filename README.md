@@ -64,8 +64,8 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 Item                                               | # of assignments  | % of grade
 --------| -------------   | ----------------
 [Class participation ](#class-assignments)          | 28                   | ~55%
-Per class summaries (#class-exams)                       | 6                    | ~45%
-Research proposal  (#class-exams)                        | 1                | ~45%
+[Per class summaries] (#Per class summaries)                       | 6                    | ~45%
+[Research proposal]  (#Research proposal)                        | 1                | ~45%
 Total                                           |                     | 100%
 
 
@@ -86,5 +86,19 @@ Points        | Letter Grade Assigned
 630-669       | D
 600-629       | D-
 < 600         | F
+
+
+Class participation (20% of grade). To earn this portion of the grade students must actively contribute to all class discussions.
+
+Per class summaries (30%). Before each week’s discussion, participants will have to submit a 500-word summary of the topic being assigned for that day. Each participant has to submit at least six summaries (5% each). The participant chooses which topics to submit summaries for. It is expected that given feedback by the instructor students improve their written summaries overtime.
+
+Research proposal (50% of grade). This will involve writing a four-page proposal (excluding references) that seeks to answer an ecological or evolutionary question with genomic tools. Writing the proposal itself and addressing the panel and reviewer’s comments accounts for 30% of the grade. Providing detailed criticism of the proposals when reviewers or fully engaging in discussions during panels and writing panel summaries accounts for 20% of the grade. 
+
+
+
+
+
+
+
 
 ## Absentee policy
