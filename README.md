@@ -61,12 +61,12 @@ Wee14 	| Climate change
 
 In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system.  Grading is pretty simple:
 
-Item                                            | Points          | # of assignments  | Total Points  | % of grade
---------| -------------   | ----------------- | ------------- | -------------
-[Class participation ](#class-assignments)         | 25 each         | 22                | 550           | ~55%
-Per class summaries (#class-exams)                     | 150 each        | 3                 | 450           | ~45%
-Research proposal  (#class-exams)                     | 150 each        | 3                 | 450           | ~45%
-Total                                           |                 |                   | 1000 points   | 100%
+Item                                               | # of assignments  | % of grade
+--------| -------------   | ----------------
+[Class participation ](#class-assignments)          | 28                   | ~55%
+Per class summaries (#class-exams)                       | 6                    | ~45%
+Research proposal  (#class-exams)                        | 1                | ~45%
+Total                                           |                     | 100%
 
 
 ### Grading scale
