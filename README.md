@@ -63,7 +63,7 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
 Item                                               | # of assignments  | % of grade
 --------| -------------   | ----------------
-[Class participation ](#class-assignments)          | 28                   | 20%
+[Class participation ](#class-participation)          | 28                   | 20%
 [Per class summaries] (#Per-class-summaries)                       | 6                    | 30%
 [Research proposal]  (#Research-proposal)                        | 1                | 50%
 Total                                           |                     | 100%
@@ -88,7 +88,8 @@ Points        | Letter Grade Assigned
 < 600         | F
 
 
-Class participation (20% of grade). To earn this portion of the grade students must actively contribute to all class discussions.
+## Class participation
+(20% of grade). To earn this portion of the grade students must actively contribute to all class discussions.
 
 Per class summaries (30%). Before each week’s discussion, participants will have to submit a 500-word summary of the topic being assigned for that day. Each participant has to submit at least six summaries (5% each). The participant chooses which topics to submit summaries for. It is expected that given feedback by the instructor students improve their written summaries overtime.
 
