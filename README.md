@@ -16,7 +16,7 @@ Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
 All the contents of this course (e.g. all my notes) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
 
 
-# Course Materials
+## Course Materials
 Papers from the primary literature. All material will be provided via GitHub.
 
 
@@ -57,7 +57,7 @@ Wee14 	| Climate change
 
 
 
-## Grading
+### Grading
 
 In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system.  Grading is pretty simple:
 
@@ -69,7 +69,7 @@ Item                                               | # of assignments  | % of gr
 Total                                           |                     | 100%
 
 
-## Grading scale
+### Grading scale
 
 Points        | Letter Grade Assigned
 --------------|----------------------
