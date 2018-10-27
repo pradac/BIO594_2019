@@ -8,13 +8,12 @@
 [Slack](https://bio-594.slack.com/)
 
 Level: Graduate
+Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
+
 
 ## Software License
-
 All the contents of this course (e.g. all my notes) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).
 
-
-Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
 
 # Course Materials:
 Papers from the primary literature. All material will be provided via GitHub.
@@ -38,7 +37,9 @@ After eight weeks, and once students acquire some understanding of the possibili
 ## DISCUSSION AND LECTURE TOPICS:
 
 
-
+## Week      | Topic          
+--------| -------------  
+[Class assignments](#class-assignments)         | 25 each         | 22               
 
 
 
