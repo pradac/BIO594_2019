@@ -1,7 +1,6 @@
 # This is a test file
-**I want to**
+**EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIOL 594)**
 
-* me
 
 [Slack](https://biolprogramming.slack.com)
 
