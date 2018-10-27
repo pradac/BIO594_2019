@@ -39,20 +39,20 @@ After eight weeks, and once students acquire some understanding of the possibili
 
 Week      | Topic          
 --------| ------------------------------------------------------------  
-Week1 	| Introduction
-Week 2 	| Genome science preview I
-Week 3 	| Genome science preview II
-Week 4 	| Population genomics
-Week 5 	| Genomics and phenotypes
-Week 6 	| Functional genomics (physiology)
-Week 7 	| Phenotypic plasticity
-Week 8 	| Epigenetics and non-genetic trans-generational inheritance
-Week 9 	| Symbiosis and species interactions
-Week 10 | 	Hybridization
-Week 11 | 	Phylogenomics and trait evolution
-Week 12 | 	Community dynamics and metabarcodin
-Wee13 	| Speciation and adaptive radiations
-Wee14 	| Climate change
+Week1 	| **Introduction**
+Week 2 	| **Genome science preview I**
+Week 3 	| **Genome science preview II**
+Week 4 	| **Population genomics**
+Week 5 	| **Genomics and phenotypes**
+Week 6 	| **Functional genomics (physiology)**
+Week 7 	| **Phenotypic plasticity**
+Week 8 	| **Epigenetics and non-genetic trans-generational inheritance**
+Week 9 	| **Symbiosis and species interactions**
+Week 10 | 	**Hybridization**
+Week 11 | 	**Phylogenomics and trait evolution**
+Week 12 | 	**Community dynamics and metabarcodin**
+Wee13 	| **Speciation and adaptive radiations**
+Wee14 	| **Climate change**
 
 
 
