@@ -39,8 +39,8 @@ After eight weeks, and once students acquire some understanding of the possibili
 
 Week      | Topic          
 --------| ------------------------------------------------------------  
-Week1 	| ## Introduction
-Week 2 	| ## Genome science preview I
+Week1 	| Introduction
+Week 2 	| Genome science preview I
 Week 3 	| Genome science preview II
 Week 4 	| Population genomics
 Week 5 	| Genomics and phenotypes
@@ -63,8 +63,9 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
 Item                                            | Points          | # of assignments  | Total Points  | % of grade
 --------| -------------   | ----------------- | ------------- | -------------
-[Class assignments](#class-assignments)         | 25 each         | 22                | 550           | ~55%
-[Class exams](#class-exams)                     | 150 each        | 3                 | 450           | ~45%
+[Class participation ](#class-assignments)         | 25 each         | 22                | 550           | ~55%
+Per class summaries (#class-exams)                     | 150 each        | 3                 | 450           | ~45%
+Research proposal  (#class-exams)                     | 150 each        | 3                 | 450           | ~45%
 Total                                           |                 |                   | 1000 points   | 100%
 
 
