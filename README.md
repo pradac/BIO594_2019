@@ -5,6 +5,7 @@
 
 ### Instructor:  Carlos Prada, office CBLS 181, phone number: 401 874 5767
 [prada@edu](mailto:prada@uri.edu)
+
 [Slack](https://bio-594.slack.com/)
 
 Level: Graduate
