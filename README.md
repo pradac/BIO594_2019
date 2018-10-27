@@ -37,10 +37,10 @@ After eight weeks, and once students acquire some understanding of the possibili
 ## DISCUSSION AND LECTURE TOPICS:
 
 
-## Week      | Topic          
---------| -------------  
-Week1 	| Introduction
-Week 2 	| Genome science preview I
+Week      | Topic          
+--------| ------------------------------------------------------------  
+Week1 	| ## Introduction
+Week 2 	| ## Genome science preview I
 Week 3 	| Genome science preview II
 Week 4 	| Population genomics
 Week 5 	| Genomics and phenotypes
