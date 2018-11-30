@@ -1,6 +1,6 @@
 
 
-# EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIO 594)
+# EVOLUTIONARY AND ECOLOGIAL GENOMICS (BIO 594)
 
 
 ### Instructor:  Carlos Prada, office CBLS 181, phone number: 401 874 5767
@@ -10,6 +10,12 @@
 
 Level: Graduate
 Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
+
+
+
+#NEWESTSSTSTS
+
+
 
 
 ## Software License
