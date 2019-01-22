@@ -41,7 +41,7 @@ The first week of the course will consist on a review of the major aspects of ge
 By the end of the class, and once students acquire some understanding of the possibilities to answer ecological and evolutionary questions with genomic tools, participants will write a research proposal that will be evaluated by their peers in review panels.  Reviewers and panelists will provide detailed criticisms to authors and authors will have one week to address criticism and resubmit their proposals. Upon resubmission, the authors have to write a one page letter highlighting the major issues found by reviewers and panelists and how they addressed the problems. Participants are evaluated both on the originality and effort to develop their own proposals as well as their detailed criticisms when acting as reviewers and or panelists.
 
 
-### DISCUSSION AND LECTURE TOPICS
+### Discussion and Lecture Topics
 
 Week      | Topic          
 --------| ------------------------------------------------------------  
@@ -91,7 +91,7 @@ Apr 30 (Tue)	|**Panel discussion** | Summit summaries	|Ian
 May 2 (Thu)	|**Panel discussion**  |Summit summaries	|Kevin
 
 
-### GRADING
+### Grading
 
 In accordance with the URI grading policy, grades will be assigned using an A-F scale and the +/- system.
 
@@ -104,7 +104,7 @@ Item                                               | # of assignments  | % of gr
 Total                                           |                     | 100%
 
 
-### GRADING SCALE
+### Grading Scale
 
 Points        | Letter Grade Assigned
 --------------|----------------------
@@ -135,9 +135,7 @@ This will involve writing a four-page proposal (excluding references) that seeks
 ### Presentation
 Each student will have a presentation on a subject. The aim of the presentation is to introduce the general subject that we will be discussing in the following class. The presentation must contain all the critical vocabulary and concepts needed to understand the papers that we will be discussing in the subsequent meeting. For each subject there is at least one review paper that contains the baseline info needed to develop the presentation. The review paper is MANDATORY for non-presenters. Presenters should read also the upcoming discussion papers to make sure that they include all the necessary vocabulary in those papers. The presentation is a key aspect of the discussion process because it will allow us to get a deeper understanding of the papers to be discussed. The presentation should be at least 30 min and no more than 60 minutes. Students are welcome to implement any kind of teaching technique to interact with all participants and transmit all the key concepts. Participants are welcome to bring all questions, especially basic questions so that the presenter can answer then or me or any other of the participants. The presenter has to schedule at least one appointment with me a week (seven days) before the presentation. You are welcome to meet with me more times if you need to. I encourage you to meet with me twice once to get a general idea of what you should include and then a second one with the presentation to improve it.
 
-
-
-### ACADEMIC INTEGRITY
+### Academic Integrity
 All students will be held to all rules and regulations concerning academic integrity according to URI’s [Student Handbook](http://web.uri.edu/studentconduct/student-handbook/). Cheating will not be tolerated and penalties may include a “zero” on an exam or assignment, which may result in failure (F) in the course. Any student who has knowledge of any violation of the rules and regulations in the Handbook is expected to bring that violation to the attention of the instructors. There will be no exceptions to this University policy. Honor your Education by adhering to all policies of Academic Integrity.  Please don’t test the system.
 
 From the Provost:  *“Students are expected to be honest in all academic work. A student’s name on any written work, quiz or exam shall be regarded as assurance that the work is the result of the student’s own independent thought and study. Work should be stated in the student’s own words, properly attributed to its source. Students have an obligation to know how to quote, paraphrase, summarize, cite and reference the work of others with integrity. The following are examples of academic dishonesty.”*
@@ -156,10 +154,10 @@ Also from the provost:
 • Facilitating or aiding another’s academic dishonesty
 • Submitting the same paper for more than one course without prior approval from the instructors."*
 
-STUDENTS WITH DISABILITIES
+#Students with disabilities
 Any student with a documented disability is welcome to contact Dr. Prada as early in the semester as possible so that we may arrange reasonable accommodations. As part of this process, please be in touch with Disability Services for Students Office at 330 Memorial Union, 401-874-2098 (http://www.uri.edu/disability/dss/)
 
-A NOTE ABOUT COURSE OBJECTIVES AND COURSE EVALUATIONS
+#A note about course objectives and course evaluations
 You will be asked to assess the following 12 learning objectives on the University course evaluations administered at the end of the semester. The objectives in bold are those that are most important in this course.
 
 1. **Gaining factual knowledge (terminology, classifications, methods, trends)**
@@ -174,3 +172,30 @@ You will be asked to assess the following 12 learning objectives on the Universi
 10. Developing a clearer understanding of, and commitment to, personal values
 11. Learning how to analyze and critically evaluate ideas, arguments, and points of view
 12. Acquiring an interest in learning more by asking questions and seeking answers
+
+
+#Surviving links to MarkDown and GitHub
+As a Text Editor I have used [Text Wrangler](http://www.barebones.com/products/textwrangler/), [Atom](https://atom.io) and [Quiver](http://happenapps.com)
+
+To get familiar on how to comment and add info to the class please visit:
+* [Github Guide](https://guides.github.com/activities/hello-world/)
+* [Markdown Guide](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+#Adding info to this class repository
+First create an account in [GitHub](https://github.com). Once you have the account do the following:
+
+`git config --global user.email "your-email@uri.edu"`
+then
+`git config --global user.name "Your Name"`
+
+Make a folder called `repos`
+`mkdir ~/repos`
+
+Enter to that newly created folder: `cd repos`
+
+Now, copy the class repository/folder: `git clone https://github.com/pradac/BIO594_2019`
+
+You now have a directory called `BIO594_2019` and you can update it by `cd ~/repos/BIO594_2019` then `git pull`
+
+You can propose changes to this repository by modifying or adding/deleting files locally and then pushing/uploading them to master project. See [this](https://help.github.com/articles/managing-files-using-the-command-line/)
