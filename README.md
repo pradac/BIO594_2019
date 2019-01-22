@@ -12,4 +12,4 @@ On this repository you find:
 
 [500-word-summaries](https://github.com/pradac/BIO594_2019/blob/master/500-word-summaries)
 
-[Discussion summaries](https://github.com/pradac/BIO594_2019/blob/master/500-word-summaries)
+[Discussion summaries](https://github.com/pradac/BIO594_2019/blob/master/BIO594_Notebook_2019.md)
