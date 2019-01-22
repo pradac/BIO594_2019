@@ -62,8 +62,8 @@ Wee14 	| **Climate change**
 
 Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
-    |Jan 24 (Thu)	|Introduction	|Carlos
-    |Jan 29 (Tue)	|No class	|----
+0    |Jan 24 (Thu)	|Introduction	|Carlos
+0    |Jan 29 (Tue)	|No class	|----
 1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
 1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos
 2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
