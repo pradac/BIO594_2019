@@ -91,7 +91,7 @@ Apr 30 (Tue)	|**Panel discussion** | Summit summaries	|Ian
 May 2 (Thu)	|**Panel discussion**  |Summit summaries	|Kevin
 
 
-### Grading
+### GRADING
 
 In accordance with the URI grading policy, grades will be assigned using an A-F scale and the +/- system.
 
@@ -104,7 +104,7 @@ Item                                               | # of assignments  | % of gr
 Total                                           |                     | 100%
 
 
-### Grading scale
+### GRADING SCALE
 
 Points        | Letter Grade Assigned
 --------------|----------------------
@@ -124,19 +124,52 @@ Points        | Letter Grade Assigned
 
 
 ### Class participation
-(20% of grade). To earn this portion of the grade students must actively contribute to all class discussions.
+To earn this portion of the grade students must actively contribute to all class discussions. Essential to read articles in detail including supplementary info.
 
 ### Per class summaries
-(30%). Before each week’s discussion, participants will have to submit a 500-word summary of the topic being assigned for that day. Each participant has to submit at least six summaries (5% each). The participant chooses which topics to submit summaries for. It is expected that given feedback by the instructor students improve their written summaries overtime.
+Before each week’s discussion, participants will have to submit a 500-word summary of the topic being assigned for that day. Each participant has to submit at least five summaries (5% each). The participant chooses which topics to submit summaries for. It is expected that given feedback by the instructor students improve their written summaries overtime.
 
 ### Research proposal
-(50% of grade). This will involve writing a four-page proposal (excluding references) that seeks to answer an ecological or evolutionary question with genomic tools. Writing the proposal itself and addressing the panel and reviewer’s comments accounts for 30% of the grade. Providing detailed criticism of the proposals when reviewers or fully engaging in discussions during panels and writing panel summaries accounts for 20% of the grade.
+This will involve writing a four-page proposal (excluding references) that seeks to answer an ecological or evolutionary question with genomic tools. The four pages are single space in Arial 11 and 1” margins. The proposal has to contain at least three aim/objectives. At least one of the objectives has to have a “genomic” approach. You are welcome to use the structure that you wish to convince the readers why your research should be funded. Writing the proposal itself accounts for 20%  and addressing the panel and reviewer’s comments accounts for 10%. Providing detailed criticism of the proposals when acting as reviewers or fully engaging in discussions during panels and writing panel summaries accounts for the other 10% of the grade.
+
+### Presentation
+Each student will have a presentation on a subject. The aim of the presentation is to introduce the general subject that we will be discussing in the following class. The presentation must contain all the critical vocabulary and concepts needed to understand the papers that we will be discussing in the subsequent meeting. For each subject there is at least one review paper that contains the baseline info needed to develop the presentation. The review paper is MANDATORY for non-presenters. Presenters should read also the upcoming discussion papers to make sure that they include all the necessary vocabulary in those papers. The presentation is a key aspect of the discussion process because it will allow us to get a deeper understanding of the papers to be discussed. The presentation should be at least 30 min and no more than 60 minutes. Students are welcome to implement any kind of teaching technique to interact with all participants and transmit all the key concepts. Participants are welcome to bring all questions, especially basic questions so that the presenter can answer then or me or any other of the participants. The presenter has to schedule at least one appointment with me a week (seven days) before the presentation. You are welcome to meet with me more times if you need to. I encourage you to meet with me twice once to get a general idea of what you should include and then a second one with the presentation to improve it.
 
 
 
+### ACADEMIC INTEGRITY
+All students will be held to all rules and regulations concerning academic integrity according to URI’s [Student Handbook](http://web.uri.edu/studentconduct/student-handbook/). Cheating will not be tolerated and penalties may include a “zero” on an exam or assignment, which may result in failure (F) in the course. Any student who has knowledge of any violation of the rules and regulations in the Handbook is expected to bring that violation to the attention of the instructors. There will be no exceptions to this University policy. Honor your Education by adhering to all policies of Academic Integrity.  Please don’t test the system.
 
+From the Provost:  *“Students are expected to be honest in all academic work. A student’s name on any written work, quiz or exam shall be regarded as assurance that the work is the result of the student’s own independent thought and study. Work should be stated in the student’s own words, properly attributed to its source. Students have an obligation to know how to quote, paraphrase, summarize, cite and reference the work of others with integrity. The following are examples of academic dishonesty.”*
 
+Also from the provost:*
+• Using material, directly or paraphrasing, from published sources (print or electronic) without appropriate citation
+• Claiming disproportionate credit for work not done independently
+• Unauthorized possession or access to exams
+• Unauthorized communication during exams
+• Unauthorized use of another’s work or preparing work for another student
+• Taking an exam for another student
+• Altering or attempting to alter grades
+• The use of notes or electronic devices to gain an unauthorized advantage during exams
+• Fabricating or falsifying facts, data or references
+• Facilitating or aiding another’s academic dishonesty
+• Submitting the same paper for more than one course without prior approval from the instructors.*
 
+STUDENTS WITH DISABILITIES
+Any student with a documented disability is welcome to contact Dr. Prada as early in the semester as possible so that we may arrange reasonable accommodations. As part of this process, please be in touch with Disability Services for Students Office at 330 Memorial Union, 401-874-2098 (http://www.uri.edu/disability/dss/)
 
+A NOTE ABOUT COURSE OBJECTIVES AND COURSE EVALUATIONS
+You will be asked to assess the following 12 learning objectives on the University course evaluations administered at the end of the semester. The objectives in bold are those that are most important in this course.
 
-## Absentee policy
+1. Gaining factual knowledge (terminology, classifications, methods, trends)
+2. Learning fundamental principles, generalizations, or theories
+3. Learning to apply course material (to improve thinking, problem solving, and decisions)
+4. Developing specific skills, competencies, and points of view needed by professionals in the field most closely related to this course
+5. Acquiring skills in working with others as a member of a team
+6. Developing creative capacities (writing, inventing, designing, performing in art, music, drama, etc.)
+7. Gaining broader understanding and appreciation of intellectual/cultural activity  
+8. Developing skills in expressing oneself orally or in writing
+9. Learning how to find and use resources for answering problems and solving problems
+10. Developing a clearer understanding of, and commitment to, personal values
+11. Learning how to analyze and critically evaluate ideas, arguments, and points of view
+12. Acquiring an interest in learning more by asking questions and seeking answers
