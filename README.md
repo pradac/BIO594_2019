@@ -45,7 +45,6 @@ By the end of the class, and once students acquire some understanding of the pos
 
 ### Discussion and Lecture Topics
 
-
 Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
 Intro| Jan 24 (Thu)	|Introduction	|Carlos
@@ -139,10 +138,10 @@ Also from the provost:
 • Facilitating or aiding another’s academic dishonesty
 • Submitting the same paper for more than one course without prior approval from the instructors."*
 
-#Students with disabilities
+### Students with disabilities
 Any student with a documented disability is welcome to contact Dr. Prada as early in the semester as possible so that we may arrange reasonable accommodations. As part of this process, please be in touch with Disability Services for Students Office at 330 Memorial Union, 401-874-2098 (http://www.uri.edu/disability/dss/)
 
-#A note about course objectives and course evaluations
+### A note about course objectives and course evaluations
 You will be asked to assess the following 12 learning objectives on the University course evaluations administered at the end of the semester. The objectives in bold are those that are most important in this course.
 
 1. **Gaining factual knowledge (terminology, classifications, methods, trends)**
@@ -159,7 +158,7 @@ You will be asked to assess the following 12 learning objectives on the Universi
 12. Acquiring an interest in learning more by asking questions and seeking answers
 
 
-#Surviving links to MarkDown and GitHub
+### Surviving links to MarkDown and GitHub
 As a Text Editor I have used [Text Wrangler](http://www.barebones.com/products/textwrangler/), [Atom](https://atom.io) and [Quiver](http://happenapps.com)
 
 To get familiar on how to comment and add info to the class please visit:
@@ -167,7 +166,7 @@ To get familiar on how to comment and add info to the class please visit:
 * [Markdown Guide](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-#Adding info to this class repository
+### Adding info to this class repository
 First create an account in [GitHub](https://github.com). Once you have the account do the following:
 
 `git config --global user.email "your-email@uri.edu"`
