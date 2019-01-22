@@ -48,8 +48,8 @@ By the end of the class, and once students acquire some understanding of the pos
 
 Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
-Jan 24 (Thu)	|Introduction	|Carlos
-Jan 29 (Tue)	|No class	|----
+Intro| Jan 24 (Thu)	|Introduction	|Carlos
+No Class | Jan 29 (Tue)	|No class	|----
 1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
 1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos
 2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
@@ -60,21 +60,21 @@ Jan 29 (Tue)	|No class	|----
 4a	|Feb 26 (Tue)	|DISCUSSION	|Cassie
 5	|Feb 28 (Thu)	|**Adaptive phenotypic plasticity and epigenetics**	|Kevin
 5a	|Mar 5 (Tue)	|DISCUSSION	|Kevin
-6	|Mar 7 (Thu)	|**Developmental biology	|Jennifer
-Mar 11- 14	|No class - Spring Break	|----
+6	|Mar 7 (Thu)	|**Developmental biology**	|Jennifer
+No Class | Mar 11- 14	|No class - Spring Break	|----
 6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer
 7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
 7a	|Mar 26 (Tue)	|DISCUSSION	|Ian
 8	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
-Apr 1- 7	|No class - Carlos in Mexico	|---
+No Class | Apr 1- 7	|No class - Carlos in Mexico	|---
 8a	|Apr 9 (Tue)	|DISCUSSION	|Matias
 9	|Apr 11 (Thu)	|**Climate change and conservation biology**	|Emma
 9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma
 10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
-April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
+No Class | April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
 10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine
-Apr 30 (Tue)	|**Panel discussion -Summit summaries**	|
-May 2 (Thu)	|**Panel discussion -Summit summaries**	|
+Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	|
+Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	|
 
 
 ### Grading
