@@ -142,7 +142,8 @@ All students will be held to all rules and regulations concerning academic integ
 
 From the Provost:  *“Students are expected to be honest in all academic work. A student’s name on any written work, quiz or exam shall be regarded as assurance that the work is the result of the student’s own independent thought and study. Work should be stated in the student’s own words, properly attributed to its source. Students have an obligation to know how to quote, paraphrase, summarize, cite and reference the work of others with integrity. The following are examples of academic dishonesty.”*
 
-Also from the provost:*
+Also from the provost:
+*"
 • Using material, directly or paraphrasing, from published sources (print or electronic) without appropriate citation
 • Claiming disproportionate credit for work not done independently
 • Unauthorized possession or access to exams
@@ -153,7 +154,7 @@ Also from the provost:*
 • The use of notes or electronic devices to gain an unauthorized advantage during exams
 • Fabricating or falsifying facts, data or references
 • Facilitating or aiding another’s academic dishonesty
-• Submitting the same paper for more than one course without prior approval from the instructors.*
+• Submitting the same paper for more than one course without prior approval from the instructors."*
 
 STUDENTS WITH DISABILITIES
 Any student with a documented disability is welcome to contact Dr. Prada as early in the semester as possible so that we may arrange reasonable accommodations. As part of this process, please be in touch with Disability Services for Students Office at 330 Memorial Union, 401-874-2098 (http://www.uri.edu/disability/dss/)
@@ -161,14 +162,14 @@ Any student with a documented disability is welcome to contact Dr. Prada as earl
 A NOTE ABOUT COURSE OBJECTIVES AND COURSE EVALUATIONS
 You will be asked to assess the following 12 learning objectives on the University course evaluations administered at the end of the semester. The objectives in bold are those that are most important in this course.
 
-1. Gaining factual knowledge (terminology, classifications, methods, trends)
+1. **Gaining factual knowledge (terminology, classifications, methods, trends)**
 2. Learning fundamental principles, generalizations, or theories
-3. Learning to apply course material (to improve thinking, problem solving, and decisions)
+3. **Learning to apply course material (to improve thinking, problem solving, and decisions)**
 4. Developing specific skills, competencies, and points of view needed by professionals in the field most closely related to this course
-5. Acquiring skills in working with others as a member of a team
+5. **Acquiring skills in working with others as a member of a team**
 6. Developing creative capacities (writing, inventing, designing, performing in art, music, drama, etc.)
 7. Gaining broader understanding and appreciation of intellectual/cultural activity  
-8. Developing skills in expressing oneself orally or in writing
+8. **Developing skills in expressing oneself orally or in writing**
 9. Learning how to find and use resources for answering problems and solving problems
 10. Developing a clearer understanding of, and commitment to, personal values
 11. Learning how to analyze and critically evaluate ideas, arguments, and points of view
