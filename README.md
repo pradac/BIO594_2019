@@ -1,6 +1,6 @@
 
 
-# EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIO 594-004)
+## EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIO 594-004)
 
 
 ### Instructor:  Carlos Prada, Office CBLS 181, phone number: 401 874 5767
@@ -24,7 +24,7 @@ All the contents of this course (e.g. all my notes) under an [open-source licens
 
 
 ## Course Materials
-Papers from the primary literature. All material will be provided via GitHub.
+Papers from the primary literature. All material will be provided via [GitHub](https://github.com/pradac/BIO594_2019). We will communicate info about the class through [Slack](https://bio-594.slack.com/).
 
 
 ## Course Description
