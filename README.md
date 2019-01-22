@@ -45,7 +45,7 @@ By the end of the class, and once students acquire some understanding of the pos
 
 ### Discussion and Lecture Topics
 
-Code    |Date	|Topic	|Name
+ode    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
 Intro| Jan 24 (Thu)	|**Introduction** [Holenhole et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/Holenhole_etal_2018.pdf)	|Carlos
 No Class | Jan 29 (Tue)	|No class	|----
