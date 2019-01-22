@@ -14,9 +14,9 @@ Semester: Spring 2019
 
 When and where do we meet:
 
-    Tuesdays    9 -10:30 AM CBLS 435
+    Tuesdays    9 - 10:30 AM CBLS 435
 
-    Thursdays   9 -10:30 AM CI 200
+    Thursdays   9 - 10:30 AM CI 200
 
 
 
