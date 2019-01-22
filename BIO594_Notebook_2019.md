@@ -2,7 +2,7 @@
 
 # 2019 Discussion Notebook
 
-We will keep record of all our discussion in this notebook. Discussion leaders should update it within 48 hours of the discussion with a summary within 500 - 1000 words. This notebook was originally developed by Author: Andrew D. Nguyen, [Evolutionary Physiologist](https://adnguyen.github.io). A clone of it with tips on how to write/highlight parts can be found [here](https://github.com/pradac/Notebooks_and_Protocols).
+We will keep record of all our discussion in this notebook. Discussion leaders should update it within 48 hours of the discussion with a summary within 500 - 1000 words. This notebook was originally developed by Author: [Andrew D. Nguyen](https://adnguyen.github.io). A clone of it with tips on how to write/highlight parts can be found [here](https://github.com/pradac/Notebooks_and_Protocols).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.    
 
@@ -51,7 +51,8 @@ Add
 
 ### Page 3: 2018-01-02. Correlation between Phenotype and Genotype   
 
-A
+Add
+
 ------
 
 <div id='id-section4'/>    
@@ -59,6 +60,7 @@ A
 ### Page 4:  2018-01-02. Physiology and Gene Expression
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -66,6 +68,7 @@ Add
 ### Page 5:  2018-01-02. Adaptive phenotypic plasticity and epigenetics
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -73,6 +76,7 @@ Add
 ### Page 6:  2018-01-02. Developmental biology
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -80,6 +84,7 @@ Add
 ### Page 7:  2018-01-02. Symbiosis -The genomics of species interactions
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -87,6 +92,7 @@ Add
 ### Page 8:  2018-01-02. Speciation and hybridization
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -94,6 +100,7 @@ Add
 ### Page 9:  2018-01-02. Climate change and conservation biology
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -101,6 +108,7 @@ Add
 ### Page 10:  2018-01-02. Community ecology eDNA and microbial genomics
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -108,6 +116,7 @@ Add
 ### Page 11:  2018-01-02. **Panel discussion A** -Summit summaries
 
 Add
+
 ------
 
 <div id='id-section5'/>  
@@ -115,6 +124,7 @@ Add
 ### Page 12:  2018-01-02. **Panel discussion B** -Summit summaries
 
 Add
+
 ------
 
 <div id='id-section5'/>  
