@@ -8,12 +8,14 @@
 
 [Slack](https://bio-594.slack.com/)
 
-Level: Graduate, upper undergraduate
+Level: Graduate, Upper undergraduate
 
 Semester: Spring 2019
 
 When and where do we meet:
+
     Tuesdays    9 -10:30 AM CBLS 435
+
     Thursdays   9 -10:30 AM CI 200
 
 
@@ -46,33 +48,34 @@ By the end of the class, and once students acquire some understanding of the pos
 
 Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
-0    |Jan 24 (Thu)	|Introduction	|Carlos
-0    |Jan 29 (Tue)	|No class	|----
-1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
-1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos
-2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
-2a	|Feb 12 (Thu)	|DISCUSSION	|Amy/Jennifer
-3	|Feb 14 (Tue)	|**Correlation between Phenotype and Genotype**	|Maggie
-3a	|Feb 19 (Tue)	|DISCUSSION	|Maggie/Matias
-4	|Feb 21 (Thu)	|**Physiology and Gene Expression**	|Cassie
-4a	|Feb 26 (Tue)	|DISCUSSION	|Cassie/Emma
-5	|Feb 28 (Thu)	|**Adaptive phenotypic plasticity and epigenetics**	|Kevin
-5a	|Mar 5 (Tue)	|DISCUSSION	|Kevin/Elaine
-6	|Mar 7 (Thu)	|**Developmental biology**	|Jennifer
-Mar 11- 14	|No class - Spring Break	|----
-6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer/Erin
-7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
-7a	|Mar 26 (Tue)	|DISCUSSION	|Ian/Maggie
-8	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
-Apr 1- 7	|No class - Carlos in Mexico	|---
-8a	|Apr 9 (Tue)	|DISCUSSION	|Matias/Amy
-9	|Apr 11 (Thu)	|**Climate change and conservation biology**	|Emma
-9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma/Erin
-10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
-April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
-10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine/Cassie
-Apr 30 (Tue)	|**Panel discussion** | Summit summaries	|Ian
-May 2 (Thu)	|**Panel discussion**  |Summit summaries	|Kevin
+Date	|Topic	|Name
+0   Jan 24 (Thu)	|Jan 24 (Thu)	|Introduction	|Carlos
+0   Jan 29 (Tue)	|Jan 29 (Tue)	|No class	|----
+1	Jan 31 (Thu)	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
+1a	Feb 5 (Tue)	|Feb 5 (Tue)	|DISCUSSION	|Carlos
+2	Feb 7 (Thu)	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
+2a	Feb 12 (Thu)	|Feb 12 (Thu)	|DISCUSSION	|Amy/Jennifer
+3	Feb 14 (Tue)	|Feb 14 (Tue)	|**Correlation between Phenotype and Genotype**	|Maggie
+3a	Feb 19 (Tue)	|Feb 19 (Tue)	|DISCUSSION	|Maggie/Matias
+4	Feb 21 (Thu)	|Feb 21 (Thu)	|**Physiology and Gene Expression**	|Cassie
+4a	Feb 26 (Tue)	|Feb 26 (Tue)	|DISCUSSION	|Cassie/Emma
+5	Feb 28 (Thu)	|Feb 28 (Thu)	|**Adaptive phenotypic plasticity and epigenetics**	|Kevin
+5a	Mar 5 (Tue)	|Mar 5 (Tue)	|DISCUSSION	|Kevin/Elaine
+6	Mar 7 (Thu)	|Mar 7 (Thu)	|**Developmental biology**	|Jennifer
+    Mar 11- 14	    | Mar 11- 14	    |No class - Spring Break	|----
+6a	Mar 19 (Tue)	|Mar 19 (Tue)	|DISCUSSION	|Jennifer/Erin
+7	Mar 21 (Thu)	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
+7a	Mar 26 (Tue)	|Mar 26 (Tue)	|DISCUSSION	|Ian/Maggie
+8	March 28 (Thu)	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
+Apr 1- 7	 |       |No class - Carlos in Mexico	|---
+8a	Apr 9 (Tue)	|Apr 9 (Tue)	|DISCUSSION	|Matias/Amy
+9	Apr 11 (Thu)	|Apr 11 (Thu)	|**Climate change and conservation biology**	|Emma
+9a	Apr 16 (Tue)	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma/Erin
+10	Apr 18 (Thu)	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
+April 23 (Tue)	 |   |No class -Carlos in Buffalo- but proposal reviews are due	|----
+10a	Apr 25 (Thu)|Apr 25 (Thu)	|DISCUSSION	|Elaine/Cassie
+Apr 30 (Tue)	|    |**Panel discussion** | Summit summaries	|Ian
+May 2 (Thu)	     |   |**Panel discussion**  |Summit summaries	|Kevin
 
 
 ### Grading
@@ -93,16 +96,15 @@ Total                                           |                     | 100%
 Points        | Letter Grade Assigned
 --------------|----------------------
 900-1000       | A+
-900-929        | A
-870-899        | A-
-830-869        | B+
-800-829        | B
-770-799        | B-
-730-769        | C+
-700-729        | C
-670-699        | C-
-630-669        | D+
-600-629        | D
+870-899        | A
+830-869        | A-
+800-829        | B+
+770-799        | B
+730-769        | B-
+700-729        | C+
+670-699        | C
+630-669        | C-
+600-629        | D+
 550-599        | D-
 < 550          | F
 
