@@ -60,8 +60,8 @@ Week 12 | 	**Community dynamics and metabarcodin**
 Wee13 	| **Speciation and adaptive radiations**
 Wee14 	| **Climate change**
 
-Date	|Topic	|Name
---------| ----------------------------|--------------------------
+    |   Date	|Topic	|Name
+----|----| ----------------------------|--------------------------
 Jan 24 (Thu)	|Introduction	|Carlos
 Jan 29 (Tue)	|No class	|----
 1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
