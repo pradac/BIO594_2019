@@ -49,8 +49,8 @@ Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
 Intro| Jan 24 (Thu)	|Introduction	|Carlos
 No Class | Jan 29 (Tue)	|No class	|----
-1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
-1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos
+1	|Jan 31 (Thu)	|**Population genomics, population structure and demography** [R1](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/Schraiber_Akey_NatRevGen_15.pdf)	|Carlos
+1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos [P1](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/(416)%20Rougemont_Bernatchez_Evolution_2018.pdf), [P2](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/eaav2621.full.pdf)
 2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
 2a	|Feb 12 (Thu)	|DISCUSSION	|Amy/Jennifer
 3	|Feb 14 (Tue)	|**Correlation between Phenotype and Genotype**	|Maggie
