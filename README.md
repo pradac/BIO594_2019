@@ -15,9 +15,6 @@ Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
 
 #NEWES
 
-TSST
-
-STS
 
 
 
