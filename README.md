@@ -1,20 +1,20 @@
 
 
-# EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIO 594)
+# EVOLUTIONARY AND ECOLOGICAL GENOMICS (BIO 594-004)
 
 
-### Instructor:  Carlos Prada, office CBLS 181, phone number: 401 874 5767
+### Instructor:  Carlos Prada, Office CBLS 181, phone number: 401 874 5767
 [prada@edu](mailto:prada@uri.edu)
 
 [Slack](https://bio-594.slack.com/)
 
-Level: Graduate
-Semester: Spring 2019, Tues/Thurs, 4:00-5:30 PM, CBLS XXX
+Level: Graduate, upper undergraduate
 
+Semester: Spring 2019
 
-
-#NEWES
-
+When and where do we meet:
+    Tuesdays    9 -10:30 AM CBLS 435
+    Thursdays   9 -10:30 AM CI 200
 
 
 
