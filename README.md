@@ -87,19 +87,20 @@ Apr 1- 7	|No class - Carlos in Mexico	|---
 10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
 April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
 10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine/Cassie
-Apr 30 (Tue)	|**Panel discussion -Summit summaries**	|Ian
-May 2 (Thu)	|**Panel discussion -Summit summaries**	|Kevin
+Apr 30 (Tue)	|**Panel discussion** | Summit summaries	|Ian
+May 2 (Thu)	|**Panel discussion**  |Summit summaries	|Kevin
 
 
 ### Grading
 
-In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system.  Grading is pretty simple:
+In accordance with the URI grading policy, grades will be assigned using an A-F scale and the +/- system.
 
 Item                                               | # of assignments  | % of grade
 --------| -------------   | ----------------
-[Class participation ](#class-participation)          | 28                   | 20%
-[Per class summaries] (#Per-class-summaries)                       | 6                    | 30%
-[Research proposal]  (#Research-proposal)                        | 1                | 50%
+[Class participation ](#class-participation)          | 20                   | 15%
+[Per class summaries](#Per-class-summaries)                       | 5                    | 25% (5% each)
+[Research proposal](#Research-proposal)                        | 1                | 40% (20%, 10%, 10%)
+[Presentation ](#Research-proposal)                        | 1                | 20%
 Total                                           |                     | 100%
 
 
@@ -107,19 +108,19 @@ Total                                           |                     | 100%
 
 Points        | Letter Grade Assigned
 --------------|----------------------
-970-1000      | A+
-930-969       | A
-900-929       | A-
-870-899       | B+
-830-869       | B
-800-829       | B-
-770-799       | C+
-730-769       | C
-700-729       | C-
-670-699       | D+
-630-669       | D
-600-629       | D-
-< 600         | F
+900-1000       | A+
+900-929        | A
+870-899        | A-
+830-869        | B+
+800-829        | B
+770-799        | B-
+730-769        | C+
+700-729        | C
+670-699        | C-
+630-669        | D+
+600-629        | D
+550-599        | D-
+< 550          | F
 
 
 ### Class participation
