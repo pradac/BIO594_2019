@@ -62,16 +62,16 @@ No Class | Jan 29 (Tue)	|No class	|----
 6	|Mar 7 (Thu)	|**Developmental biology** [Davidson_2006](https://github.com/pradac/BIO594_2019/blob/master/Papers/6-Developmental_Biology/Davidson_2006.pdf) & [Mallarino_Abzhanov_2012](https://github.com/pradac/BIO594_2019/blob/master/Papers/6-Developmental_Biology/Mallarino_Abzhanov_2012.pdf)	|Jennifer
 No Class | Mar 11- 14	|No class - Spring Break	|----
 6a	|Mar 19 (Tue)	|DISCUSSION	[Israel_etal_2016](https://github.com/pradac/BIO594_2019/blob/master/Papers/6-Developmental_Biology/Israel_etal_2016.pdf) & [Manceu_etal_2011.pdf](https://github.com/pradac/BIO594_2019/blob/master/Papers/6-Developmental_Biology/Manceu_etal_2011.pdf)|Jennifer/Erin
-7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
-7a	|Mar 26 (Tue)	|DISCUSSION	|Ian/Maggie
-8	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
+7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions** [Gilbert_etal_2015](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Gilbert_etal_2015.pdf)	|Ian
+7a	|Mar 26 (Tue)	|DISCUSSION [Belcaid_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Belcaid_etal_2018.pdf) & [Li_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Li_etal_2018.pdf)	|Ian/Maggie
+8	|March 28 (Thu)	|**Speciation and hybridization**	[Feder_etal_2013](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Feder_etal_2013.pdf) & [Seehausen_etal_2014](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Seehausen_etal_2014.pdf) |Matias
 No Class | Apr 1- 7	|No class - Carlos in Mexico	|---
-8a	|Apr 9 (Tue)	|DISCUSSION	|Matias/Amy
-9	|Apr 11 (Thu)	|**Climate change and conservation biology**	|Emma
-9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma/Erin
-10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
+8a	|Apr 9 (Tue)	|DISCUSSION	[Edelman_et_al_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Edelman_et_al_2018.pdf) & [Kautt_etal_2017](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Kautt_etal_2017.pdf)|Matias/Amy
+9	|Apr 11 (Thu)	|**Climate change and conservation biology**	 [Hendricks_2018](Hendricks_2018.pdf) |Emma
+9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due  [Bay_et_al_2018](Bay_et_al_2018.pdf) & [Barret_etal_2018](Barret_etal_2018.pdf)	|Emma/Erin
+10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics** [Deiner_et_al_2017](Deiner_et_al_2017.pdf) & [knight_etal_2018](knight_etal_2018.pdf)	|Elaine
 No Class | April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
-10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine/Cassie
+10a	|Apr 25 (Thu)	|DISCUSSION	 [Boussarie_etal_2018](Boussarie_etal_2018.pdf) & [Sunagawa_etal_2015](Sunagawa_etal_2015.pdf)|Elaine/Cassie
 Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	| Ian
 Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	| Kevin
 
