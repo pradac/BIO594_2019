@@ -76,7 +76,7 @@ Code    |Date	|Topic	|Name
 5a	|Mar 5 (Tue)	|DISCUSSION	|Kevin/Elaine
 6	|Mar 7 (Thu)	|**Developmental biology**	|Jennifer
 Mar 11- 14	|No class - Spring Break	|----
-6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer/Erin
+6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer & Erin
 7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
 7a	|Mar 26 (Tue)	|DISCUSSION	|Ian/Maggie
 8	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
