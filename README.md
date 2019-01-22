@@ -47,7 +47,7 @@ By the end of the class, and once students acquire some understanding of the pos
 
 Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
-Intro| Jan 24 (Thu)	|**Introduction** [Holenhole et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/Holenhole et al 2018.pdf)	|Carlos
+Intro| Jan 24 (Thu)	|**Introduction** [Holenhole et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/Holenhole_etal_2018.pdf)	|Carlos
 No Class | Jan 29 (Tue)	|No class	|----
 1	|Jan 31 (Thu)	|**Population genomics, population structure and demography** [Schraiber_Akey 2015](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/Schraiber_Akey 2015.pdf)	|Carlos
 1a	|Feb 5 (Tue)	|DISCUSSION [Rougemont et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/Rougemont et al 2018.pdf), [Moreno-Mayar et al 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/eaav2621.full.pdf)	& [Suppl](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/)|Carlos
