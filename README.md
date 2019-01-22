@@ -47,12 +47,12 @@ By the end of the class, and once students acquire some understanding of the pos
 
 Code    |Date	|Topic	|Name
 ----|----|----------------------------|--------------------------
-Intro| Jan 24 (Thu)	|Introduction [Holenhole et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/Review_Lukart.pdf)	|Carlos
+Intro| Jan 24 (Thu)	|Introduction [Holenhole et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/Holenhole et al 2018.pdf)	|Carlos
 No Class | Jan 29 (Tue)	|No class	|----
 1	|Jan 31 (Thu)	|**Population genomics, population structure and demography** [Schraiber_Akey 2015](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/Schraiber_Akey_NatRevGen_15.pdf)	|Carlos
-1a	|Feb 5 (Tue)	|DISCUSSION [Rougemont et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/(416)%20Rougemont_Bernatchez_Evolution_2018.pdf), [Moreno-Mayar et al 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/eaav2621.full.pdf)	|Carlos
-2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
-2a	|Feb 12 (Thu)	|DISCUSSION	|Amy/Jennifer
+1a	|Feb 5 (Tue)	|DISCUSSION [Rougemont et al. 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/(416)%20Rougemont_Bernatchez_Evolution_2018.pdf), [Moreno-Mayar et al 2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/eaav2621.full.pdf)	& [Suppl](https://github.com/pradac/BIO594_2019/blob/master/Papers/1-PopulationGenomicsStructure/)|Carlos
+2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy [Fu_Akey 2013.pdf](https://github.com/pradac/BIO594_2019/blob/master/Papers/2-Landscape_Genomics/Fu_Akey 2013.pdf), [Rellstab et al 2015.pdf](https://github.com/pradac/BIO594_2019/blob/master/Papers/2-Landscape_Genomics/Rellstab et al 2015.pdf)
+2a	|Feb 12 (Thu)	|DISCUSSION	|Amy/Jennifer [Brauer et al 2016.pdf](https://github.com/pradac/BIO594_2019/blob/master/Papers/2-Landscape_Genomics/Brauer et al 2016.pdf), [Hancock et al 2012.pdf](https://github.com/pradac/BIO594_2019/blob/master/Papers/2-Landscape_Genomics/Hancock et al 2012.pdf) & [Suppl](https://github.com/pradac/BIO594_2019/blob/master/Papers/2-Landscape_Genomics/Hancock et al 2012_SM.pdf)
 3	|Feb 14 (Tue)	|**Correlation between Phenotype and Genotype**	|Maggie
 3a	|Feb 19 (Tue)	|DISCUSSION	|Maggie/Matias
 4	|Feb 21 (Thu)	|**Physiology and Gene Expression**	|Cassie
