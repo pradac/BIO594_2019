@@ -52,28 +52,28 @@ No Class | Jan 29 (Tue)	|No class	|----
 1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
 1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos
 2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
-2a	|Feb 12 (Thu)	|DISCUSSION	|Amy
+2a	|Feb 12 (Thu)	|DISCUSSION	|Amy/Jennifer
 3	|Feb 14 (Tue)	|**Correlation between Phenotype and Genotype**	|Maggie
-3a	|Feb 19 (Tue)	|DISCUSSION	|Maggie
+3a	|Feb 19 (Tue)	|DISCUSSION	|Maggie/Matias
 4	|Feb 21 (Thu)	|**Physiology and Gene Expression**	|Cassie
-4a	|Feb 26 (Tue)	|DISCUSSION	|Cassie
+4a	|Feb 26 (Tue)	|DISCUSSION	|Cassie/Emma
 5	|Feb 28 (Thu)	|**Adaptive phenotypic plasticity and epigenetics**	|Kevin
-5a	|Mar 5 (Tue)	|DISCUSSION	|Kevin
+5a	|Mar 5 (Tue)	|DISCUSSION	|Kevin/Elaine
 6	|Mar 7 (Thu)	|**Developmental biology**	|Jennifer
 No Class | Mar 11- 14	|No class - Spring Break	|----
-6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer
+6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer/Erin
 7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
-7a	|Mar 26 (Tue)	|DISCUSSION	|Ian
+7a	|Mar 26 (Tue)	|DISCUSSION	|Ian/Maggie
 8	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
 No Class | Apr 1- 7	|No class - Carlos in Mexico	|---
-8a	|Apr 9 (Tue)	|DISCUSSION	|Matias
+8a	|Apr 9 (Tue)	|DISCUSSION	|Matias/Amy
 9	|Apr 11 (Thu)	|**Climate change and conservation biology**	|Emma
-9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma
+9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma/Erin
 10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
 No Class | April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
-10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine
-Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	|
-Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	|
+10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine/Cassie
+Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	| Ian
+Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	| Kevin
 
 
 ### Grading
@@ -119,6 +119,37 @@ This will involve writing a four-page proposal (excluding references) that seeks
 ### Presentation
 Each student will have a presentation on a subject. The aim of the presentation is to introduce the general subject that we will be discussing in the following class. The presentation must contain all the critical vocabulary and concepts needed to understand the papers that we will be discussing in the subsequent meeting. For each subject there is at least one review paper that contains the baseline info needed to develop the presentation. The review paper is MANDATORY for non-presenters. Presenters should read also the upcoming discussion papers to make sure that they include all the necessary vocabulary in those papers. The presentation is a key aspect of the discussion process because it will allow us to get a deeper understanding of the papers to be discussed. The presentation should be at least 30 min and no more than 60 minutes. Students are welcome to implement any kind of teaching technique to interact with all participants and transmit all the key concepts. Participants are welcome to bring all questions, especially basic questions so that the presenter can answer then or me or any other of the participants. The presenter has to schedule at least one appointment with me a week (seven days) before the presentation. You are welcome to meet with me more times if you need to. I encourage you to meet with me twice once to get a general idea of what you should include and then a second one with the presentation to improve it.
 
+
+### Surviving links to MarkDown and GitHub
+As a Text Editor I have used [Text Wrangler](http://www.barebones.com/products/textwrangler/) and [Atom](https://atom.io)
+
+To get familiar on how to comment and add info to the class please visit:
+* [Github Guide](https://guides.github.com/activities/hello-world/)
+* [Markdown Guide](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Adding info to this class repository
+First create an account in [GitHub](https://github.com). Once you have the account do the following:
+
+`git config --global user.email "your-email@uri.edu"`
+then
+`git config --global user.name "Your Name"`
+
+Make a folder called `repos`
+`mkdir ~/repos`
+
+Enter to that newly created folder: `cd repos`
+
+Now, copy the class repository/folder: `git clone https://github.com/pradac/BIO594_2019`
+
+You now have a directory called `BIO594_2019` and you can update it by `cd ~/repos/BIO594_2019` then `git pull`
+
+You can propose changes to this repository by modifying or adding/deleting files locally and then pushing/uploading them to master project. See [this](https://help.github.com/articles/managing-files-using-the-command-line/)
+
+
+# Do you need some help with your writing?
+The Graduate Writing Center (Roosevelt 003) offers writing assistance to all URI grad students, in all disciplines. Trained tutors can assist you at any stage of the writing process, from brainstorming ideas to revising before submission. No matter your writing style or ability, GWC tutors can help you articulate your work more clearly. You can schedule a one-on-one appointment online at mywco.com/urigradwc, or visit the GWC’s website for more information. Visit early and visit often.
+
 ### Academic Integrity
 All students will be held to all rules and regulations concerning academic integrity according to URI’s [Student Handbook](http://web.uri.edu/studentconduct/student-handbook/). Cheating will not be tolerated and penalties may include a “zero” on an exam or assignment, which may result in failure (F) in the course. Any student who has knowledge of any violation of the rules and regulations in the Handbook is expected to bring that violation to the attention of the instructors. There will be no exceptions to this University policy. Honor your Education by adhering to all policies of Academic Integrity.  Please don’t test the system.
 
@@ -156,30 +187,3 @@ You will be asked to assess the following 12 learning objectives on the Universi
 10. Developing a clearer understanding of, and commitment to, personal values
 11. Learning how to analyze and critically evaluate ideas, arguments, and points of view
 12. Acquiring an interest in learning more by asking questions and seeking answers
-
-
-### Surviving links to MarkDown and GitHub
-As a Text Editor I have used [Text Wrangler](http://www.barebones.com/products/textwrangler/), [Atom](https://atom.io) and [Quiver](http://happenapps.com)
-
-To get familiar on how to comment and add info to the class please visit:
-* [Github Guide](https://guides.github.com/activities/hello-world/)
-* [Markdown Guide](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-### Adding info to this class repository
-First create an account in [GitHub](https://github.com). Once you have the account do the following:
-
-`git config --global user.email "your-email@uri.edu"`
-then
-`git config --global user.name "Your Name"`
-
-Make a folder called `repos`
-`mkdir ~/repos`
-
-Enter to that newly created folder: `cd repos`
-
-Now, copy the class repository/folder: `git clone https://github.com/pradac/BIO594_2019`
-
-You now have a directory called `BIO594_2019` and you can update it by `cd ~/repos/BIO594_2019` then `git pull`
-
-You can propose changes to this repository by modifying or adding/deleting files locally and then pushing/uploading them to master project. See [this](https://help.github.com/articles/managing-files-using-the-command-line/)
