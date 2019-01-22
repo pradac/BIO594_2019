@@ -28,18 +28,17 @@ Papers from the primary literature. All material will be provided via [GitHub](h
 
 
 ## Course Description
-The course provides an in depth discussion forum for the current research and possibilities to answer long-standing and emerging questions in evolution and ecology using genomic techniques. The course will discuss research articles and reviews with a genomic perspective related to: Population and Conservation Biology; Natural Selection and Adaptation, Functional Genomics; Mendelian and Quantitative Trait Evolution; Epigenetics and Phenotypic Plasticity, Symbiosis, Hybridization; Phylogenomics and Molecular Evolution; Community Ecology and Metabarcoding; Speciation and Adaptive Radiations. The genomic revolution, has not only facilitated to answer old standing questions in ecology and evolution, but has also opened the possibility of new research areas. We will examine how genomic tools that are emerging and changing rapidly are transforming biology.
+The course provides an in depth discussion forum for the current research and possibilities to answer long-standing and new questions in evolution and ecology using genomic tools. The course will discuss articles and reviews with a genomic perspective related to: Population and Conservation Biology; Natural Selection and Adaptation, Functional Genomics; Trait Evolution; Epigenetics and Phenotypic Plasticity, Symbiosis, Hybridization; Community Ecology and Metabarcoding; and Speciation. The genomic revolution, fueled by the easy to sequence RAN and DNA, has not only facilitated to answer old questions in ecology and evolution, but has also opened the possibility of new research areas. We will examine how genomics tools that are emerging and changing rapidly are transforming biology.
 
 
 ## Learning Objective
-The goal is to recognize the diverse possibilities that genomic tools allow to answer evolutionary and ecological questions. Together we will enrich our conceptual understanding of genomics and the types of analysis that can be performed with genome scale data. At the end of the course participants will be able to design robust experiments to tackle their own questions and provide a detailed map of the methodological steps needed to carry out a robust study using genomic tools.
+The goal is to recognize the diverse possibilities that genomics allow to answer evolutionary and ecological questions. Together we will enrich our conceptual understanding of genomics and the types of analysis that can be performed with genome scale data. At the end of the course participants will be able to design robust experiments to tackle their own questions and provide a detailed map of the methodological steps needed to carry out a robust study using genomic tools.
 
 
 ## General course organization
-The first three weeks of the course will consist of lectures reviewing major aspects of genomics, population genetics and functional genomics. We will then embark in a rich discussion of different disciplines of biology that use genomic tools. We will discuss at least two articles per meeting. Two participants will lead each discussion and everyone has to be fully prepared to discuss articles in detail and submit a 500-word summary of the topic for that week. It is the responsibility of the leaders to maintain a fluid conversation and bring new aspects into the discussion. The leaders will have to prepare a two-page summary of the discussion. I will lead the first two discussions.
+The first week of the course will consist on a review of the major aspects of genomics. We will then embark in a rich discussion of different disciplines of biology that use genomic tools. We will discuss at least two articles per meeting (some weeks three). Two participants will lead each discussion, and everyone has to be fully prepared to discuss articles in detail and submit a 500-word summary of the topic for that week. EVERYONE has to be prepared to be able to lead the discussion if I ask for it (even if you decide to not submit a summary for that week). EVERYONE should read the papers in enough detail that are able to discuss information in SUPPLEMENTARY material. This is ESSENTIAL to truly grasp the info in papers. It is the responsibility of the leaders to maintain a fluid conversation and bring new aspects into the discussion. The leaders will have to prepare a two-page summary (500-1,000 words) of the discussion and submit it within 48 hours after the discussion. I will lead the first discussion.
 
-After eight weeks, and once students acquire some understanding of the possibilities to answer ecological and evolutionary questions with genomic tools, participants will write a research proposal that will be evaluated by their peers in review panels.  Reviewers and panelists will provide detailed criticisms to authors and authors will have two weeks to address criticism and resubmit their proposals. Participants are evaluated both on the originality and effort to develop their own proposals as well as their detailed criticisms when acting as reviewers and or panelists.
-
+By the end of the class, and once students acquire some understanding of the possibilities to answer ecological and evolutionary questions with genomic tools, participants will write a research proposal that will be evaluated by their peers in review panels.  Reviewers and panelists will provide detailed criticisms to authors and authors will have one week to address criticism and resubmit their proposals. Upon resubmission, the authors have to write a one page letter highlighting the major issues found by reviewers and panelists and how they addressed the problems. Participants are evaluated both on the originality and effort to develop their own proposals as well as their detailed criticisms when acting as reviewers and or panelists.
 
 
 ### DISCUSSION AND LECTURE TOPICS
@@ -61,7 +60,35 @@ Week 12 | 	**Community dynamics and metabarcodin**
 Wee13 	| **Speciation and adaptive radiations**
 Wee14 	| **Climate change**
 
-
+Date	|Topic	|Name
+--------| ----------------------------|--------------------------
+Jan 24 (Thu)	|Introduction	|Carlos
+Jan 29 (Tue)	|No class	|----
+1	|Jan 31 (Thu)	|**Population genomics, population structure and demography**	|Carlos
+1a	|Feb 5 (Tue)	|DISCUSSION	|Carlos
+2	|Feb 7 (Thu)	|**Seascape/Landscape Genomics**	|Amy
+2a	|Feb 12 (Thu)	|DISCUSSION	|Amy
+3	|Feb 14 (Tue)	|**Correlation between Phenotype and Genotype**	|Maggie
+3a	|Feb 19 (Tue)	|DISCUSSION	|Maggie
+4	|Feb 21 (Thu)	|**Physiology and Gene Expression**	|Cassie
+4a	|Feb 26 (Tue)	|DISCUSSION	|Cassie
+5	|Feb 28 (Thu)	|**Adaptive phenotypic plasticity and epigenetics**	|Kevin
+5a	|Mar 5 (Tue)	|DISCUSSION	|Kevin
+6	|Mar 7 (Thu)	|**Developmental biology**	|Jennifer
+Mar 11- 14	|No class - Spring Break	|----
+6a	|Mar 19 (Tue)	|DISCUSSION	|Jennifer
+7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions**	|Ian
+7a	|Mar 26 (Tue)	|DISCUSSION	|Ian
+8	|March 28 (Thu)	|**Speciation and hybridization**	|Matias
+Apr 1- 7	|No class - Carlos in Mexico	|---
+8a	|Apr 9 (Tue)	|DISCUSSION	|Matias
+9	|Apr 11 (Thu)	|**Climate change and conservation biology**	|Emma
+9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due	|Emma
+10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics**	|Elaine
+April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
+10a	|Apr 25 (Thu)	|DISCUSSION	|Elaine
+Apr 30 (Tue)	|**Panel discussion -Summit summaries**	|
+May 2 (Thu)	|**Panel discussion -Summit summaries**	|
 
 
 ### Grading
