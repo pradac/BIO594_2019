@@ -74,6 +74,7 @@ No Class | April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are
 10a	|Apr 25 (Thu)	|DISCUSSION	 [Boussarie_etal_2018](Boussarie_etal_2018.pdf) & [Sunagawa_etal_2015](Sunagawa_etal_2015.pdf)|Elaine/Cassie
 Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	| Ian
 Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	| Kevin
+  | May 10 (Fri) | **Lat day to submit revised proposals** | 
 
 
 ### Grading
@@ -124,7 +125,7 @@ Each student will have a presentation on a subject. The aim of the presentation 
 As a Text Editor I have used [Text Wrangler](http://www.barebones.com/products/textwrangler/) and [Atom](https://atom.io)
 
 To get familiar on how to comment and add info to the class please visit:
-* [Github Guide](https://guides.github.com/activities/hello-world/)
+* [Github Guide](https://guides.github.com/activities/hello-world/) [See this too](https://swcarpentry.github.io/git-novice/)
 * [Markdown Guide](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
