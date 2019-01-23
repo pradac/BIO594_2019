@@ -147,8 +147,12 @@ You now have a directory called `BIO594_2019` and you can update it by `cd ~/rep
 You can propose changes to this repository by modifying or adding/deleting files locally and then pushing/uploading them to master project. See [this](https://help.github.com/articles/managing-files-using-the-command-line/)
 
 
-# Do you need some help with your writing?
+### Do you need some help with your writing?
 The Graduate Writing Center (Roosevelt 003) offers writing assistance to all URI grad students, in all disciplines. Trained tutors can assist you at any stage of the writing process, from brainstorming ideas to revising before submission. No matter your writing style or ability, GWC tutors can help you articulate your work more clearly. You can schedule a one-on-one appointment online at mywco.com/urigradwc, or visit the GWC’s website for more information. Visit early and visit often.
+
+### Some other help
+***Academic Skills and Strategies*** programs help students identify their individual planning and studying needs in this or any other course. They can teach you more effective ways of studying, planning, managing time and work, and how to deal with challenges like procrastination and motivation. Academic Skills Sessions are 30-minute, one-on-one appointments that students can schedule online by visiting the AEC on Starfish and making an appointment with Dr. David Hayes, the AEC’s academic skills development specialist. UCS160: Success in Higher Education is a one-credit course offered each semester to all undergraduates on learning how to learn and excel in college academics. For more information on these programs or for help making an appointment, visit [uri.edu/aec/academic-skills](uri.edu/aec/academic-skills) or contact Dr. Hayes directly at davidhayes@uri.edu  
+
 
 ### Academic Integrity
 All students will be held to all rules and regulations concerning academic integrity according to URI’s [Student Handbook](http://web.uri.edu/studentconduct/student-handbook/). Cheating will not be tolerated and penalties may include a “zero” on an exam or assignment, which may result in failure (F) in the course. Any student who has knowledge of any violation of the rules and regulations in the Handbook is expected to bring that violation to the attention of the instructors. There will be no exceptions to this University policy. Honor your Education by adhering to all policies of Academic Integrity.  Please don’t test the system.
