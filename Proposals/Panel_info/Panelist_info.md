@@ -1,6 +1,6 @@
 ### Overview
 
-The panel will evaluate ~10 proposals.
+The panel will evaluate ~10 proposals. We follow NSF BIO-OCE procedure.
 
 -	Each proposal discussed at panel will have 4 assigned panelists: 1 Primary, 1 Scribe, and 2 Readers.
 o	Primary panelists read the proposal, write a review, and help evaluate whether the proposal should be discussed at panel. At panel, primary panelists lead the discussion and help with the panel summary.
