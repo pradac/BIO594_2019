@@ -1,6 +1,6 @@
-# Summary discussion on Population genomics, population structure and demography
+## Summary discussion on Population genomics, population structure and demography
 
-# Papers discussed:
+### Papers discussed:
 
 ***Rougemont and Bernatchez 2018***. The demographic history of Atlantic salmon (Salmo salar) across its distribution range reconstructed from approximate Bayesian computations. Evolution: 72-6: 1261–1277.
 ***Moreno-Mayar et al. 2018***. Early human dispersals within the Americas. Science: 362, eaav2621.
