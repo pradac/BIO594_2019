@@ -67,11 +67,11 @@ No Class | Mar 11- 14	|No class - Spring Break	|----
 8	|March 28 (Thu)	|**Speciation and hybridization**	[Feder_etal_2013](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Feder_etal_2013.pdf) & [Seehausen_etal_2014](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Seehausen_etal_2014.pdf) |Matias
 No Class | Apr 1- 7	|No class - Carlos in Mexico	|---
 8a	|Apr 9 (Tue)	|DISCUSSION	[Edelman_et_al_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Edelman_et_al_2018.pdf) & [Kautt_etal_2017](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Kautt_etal_2017.pdf)|Matias/Emma
-9	|Apr 11 (Thu)	|**Climate change and conservation biology**	 [Hendricks_2018](Hendricks_2018.pdf) |Emma
-9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due  [Bay_et_al_2018](Bay_et_al_2018.pdf) & [Barret_etal_2018](Barret_etal_2018.pdf)	|Emma/Erin
-10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics** [Deiner_et_al_2017](Deiner_et_al_2017.pdf) & [knight_etal_2018](knight_etal_2018.pdf)	|Elaine
+9	|Apr 11 (Thu)	|**Climate change and conservation biology**	 [Hendricks_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/9-Climate-Change/Hendricks_2018.pdf  |Emma
+9a	|Apr 16 (Tue)	|DISCUSSION and  proposals due  [Bay_et_al_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/9-Climate-Change/Bay_et_al_2018.pdf) & [Jordan_et_al_2017](https://github.com/pradac/BIO594_2019/blob/master/Papers/9-Climate-Change/Jordan_et_al-2017-Molecular_Ecology.pdf)	|Emma/Erin
+10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics** [Deiner_et_al_2017](Deiner_et_al_2017.pdf) & [knight_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/10-Community-Ecology-eDNA/knight_etal_2018.pdf)	|Elaine
 No Class | April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
-10a	|Apr 25 (Thu)	|DISCUSSION	 [Boussarie_etal_2018](Boussarie_etal_2018.pdf) & [Sunagawa_etal_2015](Sunagawa_etal_2015.pdf)|Elaine/Cassie
+10a	|Apr 25 (Thu)	|DISCUSSION	 [Boussarie_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/10-Community-Ecology-eDNA/Boussarie_etal_2018.pdf) & [Sunagawa_etal_2015](https://github.com/pradac/BIO594_2019/blob/master/Papers/10-Community-Ecology-eDNA/Sunagawa_etal_2015.pdf)|Elaine/Cassie
 Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	| Ian
 Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	| Kevin
   11 | May 10 (Fri) | **Lat day to submit revised proposals** |
@@ -152,7 +152,7 @@ You can propose changes to this repository by modifying or adding/deleting files
 The Graduate Writing Center (Roosevelt 003) offers writing assistance to all URI grad students, in all disciplines. Trained tutors can assist you at any stage of the writing process, from brainstorming ideas to revising before submission. No matter your writing style or ability, GWC tutors can help you articulate your work more clearly. You can schedule a one-on-one appointment online at mywco.com/urigradwc, or visit the GWC’s website for more information. Visit early and visit often.
 
 ### Some other help
-***Academic Skills and Strategies*** programs help students identify their individual planning and studying needs in this or any other course. They can teach you more effective ways of studying, planning, managing time and work, and how to deal with challenges like procrastination and motivation. Academic Skills Sessions are 30-minute, one-on-one appointments that students can schedule online by visiting the AEC on Starfish and making an appointment with Dr. David Hayes, the AEC’s academic skills development specialist. UCS160: Success in Higher Education is a one-credit course offered each semester to all undergraduates on learning how to learn and excel in college academics. For more information on these programs or for help making an appointment, visit [uri.edu/aec/academic-skills](uri.edu/aec/academic-skills) or contact Dr. Hayes directly at davidhayes@uri.edu  
+***Academic Skills and Strategies*** programs help students identify their individual planning and studying needs in this or any other course. They can teach you more effective ways of studying, planning, managing time and work, and how to deal with challenges like procrastination and motivation. Academic Skills Sessions are 30-minute, one-on-one appointments that students can schedule online by visiting the AEC on Starfish and making an appointment with Dr. David Hayes, the AEC’s academic skills development specialist. UCS160: Success in Higher Education is a one-credit course offered each semester to all undergraduates on learning how to learn and excel in college academics. For more information on these programs or for help making an appointment, visit [uri.edu/aec/academic-skills](uri.edu/aec/academic-skills) or contact Dr. Hayes directly at davidhayes@uri.edu
 
 
 ### Academic Integrity
@@ -186,7 +186,7 @@ You will be asked to assess the following 12 learning objectives on the Universi
 4. Developing specific skills, competencies, and points of view needed by professionals in the field most closely related to this course
 5. **Acquiring skills in working with others as a member of a team**
 6. Developing creative capacities (writing, inventing, designing, performing in art, music, drama, etc.)
-7. Gaining broader understanding and appreciation of intellectual/cultural activity  
+7. Gaining broader understanding and appreciation of intellectual/cultural activity
 8. **Developing skills in expressing oneself orally or in writing**
 9. Learning how to find and use resources for answering problems and solving problems
 10. Developing a clearer understanding of, and commitment to, personal values
