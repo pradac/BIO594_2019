@@ -63,7 +63,7 @@ No Class | Jan 29 (Tue)	|No class	|----
 No Class | Mar 11- 14	|No class - Spring Break	|----
 6a	|Mar 19 (Tue)	|DISCUSSION	[Israel_etal_2016](https://github.com/pradac/BIO594_2019/blob/master/Papers/6-Developmental_Biology/Israel_etal_2016.pdf) & [Imam_etal_2014](https://github.com/pradac/BIO594_2019/blob/master/Papers/6-Developmental_Biology/Imam_etal_2014_photosysnthesis.PDF)|Jennifer/Erin
 7	|Mar 21 (Thu)	|**Symbiosis -The genomics of species interactions** [Gilbert_etal_2015](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Gilbert_etal_2015.pdf)	|Ian
-7a	|Mar 26 (Tue)	|DISCUSSION [Belcaid_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Belcaid_etal_2018.pdf) & [Li_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Li_etal_2018.pdf)	|Ian/Maggie
+7a	|Mar 26 (Tue)	|DISCUSSION [Belcaid_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Belcaid_etal_2018.pdf) & [Hansen_Moran_2011](https://github.com/pradac/BIO594_2019/blob/master/Papers/7-Symbiosis/Hansen_2011_Aphids.full.pdf)	|Ian/Maggie
 8	|March 28 (Thu)	|**Speciation and hybridization**	[Feder_etal_2013](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Feder_etal_2013.pdf) & [Seehausen_etal_2014](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Seehausen_etal_2014.pdf) |Matias
 No Class | Apr 1- 7	|No class - Carlos in Mexico	|---
 8a	|Apr 9 (Tue)	|DISCUSSION	[Edelman_et_al_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Edelman_et_al_2018.pdf) & [Kautt_etal_2017](https://github.com/pradac/BIO594_2019/blob/master/Papers/8-Hybridization_Speciation/Kautt_etal_2017.pdf)|Matias/Emma
