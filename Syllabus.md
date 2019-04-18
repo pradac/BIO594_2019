@@ -72,9 +72,8 @@ No Class | Apr 1- 7	|No class - Carlos in Mexico	|---
 10	|Apr 18 (Thu)	|**Community ecology eDNA and microbial genomics** [Deiner_et_al_2017](Deiner_et_al_2017.pdf) & [knight_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/10-Community-Ecology-eDNA/knight_etal_2018.pdf)	|Elaine
 No Class | April 23 (Tue)	|No class -Carlos in Buffalo- but proposal reviews are due	|----
 10a	|Apr 25 (Thu)	|DISCUSSION	 [Boussarie_etal_2018](https://github.com/pradac/BIO594_2019/blob/master/Papers/10-Community-Ecology-eDNA/Boussarie_etal_2018.pdf) & [Sunagawa_etal_2015](https://github.com/pradac/BIO594_2019/blob/master/Papers/10-Community-Ecology-eDNA/Sunagawa_etal_2015.pdf)|Elaine/Cassie
-Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	| Ian
-Panel | May 2 (Thu)	|**Panel discussion -Summit summaries**	| Kevin
-  11 | May 10 (Fri) | **Lat day to submit revised proposals** |
+Panel | Apr 30 (Tue)	|**Panel discussion -Summit summaries**	| all
+
 
 
 ### Grading
