@@ -30,7 +30,7 @@ https://www.nsf.gov/bfa/dias/policy/merit_review/
 -	Rate the proposal. Your evaluation should clearly support your chosen rating, especially in the case of ratings of
 Excellent and Poor.
 -	Be aware of and avoid implicit biases (gender, ethnic, racial, professional, personal).
--	Submit reviews in FastLane using the Panel Review System.
+
 
 Proposal discussion process (20 minutes of discussion time is scheduled for each proposal)
 1. CP introduces the proposal.
