@@ -3,9 +3,11 @@
 The panel will evaluate ~10 proposals. We follow NSF BIO-OCE procedure.
 
 -	Each proposal discussed at panel will have 4 assigned panelists: 1 Primary, 1 Scribe, and 2 Readers.
-o	Primary panelists read the proposal, write a review, and help evaluate whether the proposal should be discussed at panel. At panel, primary panelists lead the discussion and help with the panel summary.
-o	Scribe panelists read the proposal thoroughly and help evaluate whether the proposal should be discussed at panel. You are encouraged to write a review, but this is entirely optional. At panel, scribes contribute to the discussion and lead the writing of the panel summary.
-o	 Readers are responsible for reading the proposal and reviews thoroughly before the panel meets. At panel, readers contribute to the panel discussion and help with the panel summary.
+*Primary panelists* read the proposal, write a review, and help evaluate whether the proposal should be discussed at panel. At panel, primary panelists lead the discussion and help with the panel summary.
+
+*Scribe panelists* read the proposal thoroughly and help evaluate whether the proposal should be discussed at panel. You are encouraged to write a review, but this is entirely optional. At panel, scribes contribute to the discussion and lead the writing of the panel summary.
+
+*Readers* are responsible for reading the proposal and reviews thoroughly before the panel meets. At panel, readers contribute to the panel discussion and help with the panel summary.
 o	At the end of each proposal discussion, all 4 assigned panelists will individually rate the proposal.
 
 We do not expect panelists to be equally familiar with all proposal topics. Primary and Scribe assignments will
