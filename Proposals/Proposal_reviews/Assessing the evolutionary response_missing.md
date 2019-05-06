@@ -1,6 +1,6 @@
 
 ## Assessing the evolutionary response of oyster larvae to multiple anthropogenic stressors: a mechanistic approach
-Author: Amy Zyck
+Principal Investigator: Amy Zyck
 
 
 ### Panel summary
