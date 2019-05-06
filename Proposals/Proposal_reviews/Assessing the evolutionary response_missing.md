@@ -2,6 +2,45 @@
 ## Assessing the evolutionary response of oyster larvae to multiple anthropogenic stressors: a mechanistic approach
 Author: Amy Zyck
 
+
+### Panel summary
+
+*Objective(s) of the proposal*
+
+The objective of this proposal was to understand the synergistic effects of coastal acidification (CA) and low dissolved oxygen (LDO) on the larval physiology and survivorship of the eastern oyster, Crassostrea virginica (Aim 1). Additionally, this proposal aims to determine the genes that are involved in the response to CA and LDO (Aim 2), and if these candidate genes can provide insight on resistant genotypes (Aim 3).
+
+*Intellectual Merit:*
+
+**Strengths:**   	
+
+This proposal identified a unique knowledge gap by using a multi-stressor approach to achieve more ecologically relevant stress responses in the larval developmental stages of C. virginica. The PI uses a good experimental design to achieve aims 1 and 2 by exposing a brood stock of laboratory fertilized larvae to CA, LDO, CA and LDO, and ambient conditions. By using a genotype to phenotype approach, the review panel agrees that this research is crucial in understanding the impacts of multi-stressor events on the early life stages of coastal marine invertebrates.
+
+**Weaknesses:**
+
+Although this research is novel, the panel identified disconnections between Aim 3 and the proposed experimental design. The experimental design outline for this proposal has no control for genotype. Mass spawning the collective parental oysters will make identifying larval genotypes difficult. Therefore, either the PI needs to be clearer about how they will control for genotype, or a modified version of the experimental design needs to be executed to achieve Aim 3. Additionally, the panel suggested that the proposed number of adult individuals may be too small to have enough genetic diversity to identify the candidate resistant loci.
+
+The PI needs to clarify “resistant” genes and potential pathways that fall into this category. Since the main idea of this proposal is to identify the most resistant genotypes to CA and DO, the PI needs to define what a resistant phenotype is in this scenario and what potential genes could be involved.
+
+The proposal is well written; however, the order of the background section should be structured to streamline the information to the reader. For example, the proposal should start with the importance of oysters to local communities, then transition into how CA and LDO can impact coastal marine invertebrates. Then the PI can introduce multi-stressor events and what the main objectives of this study are. The proposal would be stronger if background information on the genomics were well explained. For example, citing studies that suggest genotype is important for phenotypic change, and other studies that have looked at genotypic differences in oysters or any bivalve. The author could discuss why identifying putatively adaptive alleles is critical for understanding stress response. Citing other studies will help the author platform off these studies to introduce a genomic analysis novelty instead of just a multi-stressor novelty. The author could also talk about other studies that use genomic information to shape effective management. The background information section should cover all topics discussed in the proposal.
+
+*Broader Impacts:*
+
+**Strengths:**
+
+The broader impacts of this proposal were strong, as the PI describes ways to make these datasets publicly available on open source platforms and in a reproducible format. Additionally, early career scientists will be integrated into the project to gain valuable research experiences. The main strength of the broader impacts of this proposal is the integration of data to fishery managers, as this type of research will enhance the understanding of local stressors on an important fishery species.
+
+**Weaknesses:**
+
+The main weakness of the broader impacts of this proposal were the details linking the expected results to fishery managers and conservation efforts. Having a more complete and detailed plan of connecting the results to management practices would enhance the importance of this research.
+
+*Panel Summary Statement*
+
+Over all, this proposal was well written and explored an important area of research where current knowledge is lacking. The panel concluded that this proposal would be ranked between the “good” and “very good” range.
+
+
+
+
+
 ### Reviewer 1
 
 *What is the intellectual merit of the proposed activity?*
