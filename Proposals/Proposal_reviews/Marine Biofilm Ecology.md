@@ -1,7 +1,7 @@
 ## Marine Biofilm Ecology: Inferring habitat quality in artificial and natural marine ecosystems
 Principal Investigator: Elaine Shen
 
-###Panel Summary
+### Panel Summary
 ###### *Overview*
 
 This proposal aimed to study the effect of manmade and natural surfaces on the establishment of marine biofilms communities on coral reefs. The first aim was to compare biofilm composition over time on different substrates. The second aim sought to characterize the functional and metabolic properties of these biofilms and how they affect the future settlement of sessile marine invertebrates.
