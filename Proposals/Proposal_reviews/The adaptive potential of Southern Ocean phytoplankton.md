@@ -1,4 +1,4 @@
-## Title: The adaptive potential of Southern Ocean phytoplankton
+## The adaptive potential of Southern Ocean phytoplankton
 #### Principal Investigator: Ian Bishop
 
 ### Panel summary
