@@ -1,7 +1,7 @@
 ## Title: The adaptive potential of Southern Ocean phytoplankton
 #### Principal Investigator: Ian Bishop
 
-# Panel summary
+### Panel summary
 ###### *Overview*
 
 This proposal focused on the phenotypic diversity of diatoms, and how epigenetics may impact their adaptive potential. This type of analysis has never been done on eukaryotic photoautotrophs. They will use ddRAD-seq to analyze diversity, and reduced representation bisulfite sequencing to examine epigenetic variability. They hope that elucidating these pathways will shed light on the possibility of diatoms adapting to future climate change.
