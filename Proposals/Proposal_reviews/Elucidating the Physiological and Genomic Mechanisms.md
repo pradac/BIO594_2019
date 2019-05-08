@@ -1,6 +1,31 @@
 ## Elucidating the Physiological and Genomic Mechanisms of Environmental Memory and Acclimatization in the Coral Holobiont
 Principal Investigator: Emma Strand
 
+
+### Panel Summary
+
+**Objectives**  
+The principal investigator proposes to  investigate the validity of the reduced reactions environmental memory hypothesis as well as clarify the relationship between gene expression and methylation, assess the influence of the coral microbiome on acclimatization. The goal of this study is to synthesize the results of these three aims to guide effective long-term coral restoration practices.
+
+**Intellectual Merit**  
+*Strengths*  
+The four aims for this study complement each other well, with each subsequent objective advancing on the knowledge gained from the previous. The potential for this proposal to benefit restoration practices is directly upheld by the fourth aim of the study, which synthesizes knowledge gained from the previous three objectives in order to inform effective management practices. The project design itself is very thorough and well laid-out, and the parts of this study that have already been completed are thoroughly explained. The extensive literature review provided for background as well as the detailed experimental design illustrate the competency of the principal investigator to carry out this study. While building on previous work, panelists agree that this strong proposal will explore novel and transformative concepts in the fields of coral conservation and epigenomics.
+
+*Weaknesses*  
+While the intellectual merits of the proposal were overall very strong, there were a few points the panelists brought up that could improve the proposal. As to the experimental design, the principal investigator should clarify why specific locations and species were chosen for each of the first three aims, and how they all fit together. Any controls used in the experiment should also be detailed in the experimental design. In regards to the background section, the reduced reactions hypothesis should be further defined and information on how seasonal variation may impact the study be clarified. Additionally, while the principal investigator detailed an extensive amount of work from which this study draws from, specific knowledge gaps addressed by proposed research could be clearer. The background section was very dense and while the information was clearly necessary to include in the proposal, figures may have been useful to balance and clarify written information.
+
+**Broader Impacts**  
+*Strengths*  
+The proposed women-led study has a very strong potential to spread scientific awareness and benefit environmental management practices. The principal investigator clearly has prior experience with outreach activities such as Skype-a-Scientist, and the ways in which this study can benefit coral conservation efforts is clearly detailed.
+
+*Weaknesses*  
+One reviewer mentioned that the study may benefit from presence on social media, however, panelists otherwise noted no weaknesses in the broader impacts section of this proposal.
+
+**Summary**  
+While somewhat dense, the background and experimental design in the proposed study were incredibly detailed. In order to make this proposal strong panelists suggested that some information in the proposal should be clarified, such as controls used, and why specific species and locations were chosen. In addition to their intellectual merit, the proposal also detailed specific broader impacts initiatives that illustrated the principal investigator’s experience with similar outreach activities. Overall this proposal has a very strong potential to benefit coral restoration practices, explore novel and transformative concepts in the fields of coral conservation and epigenomics, and spread scientific awareness. 
+
+---
+
 ### Reviewer 1
 Rating: Good
 
