@@ -1,6 +1,31 @@
 ## Quit Bugging Me! The Invasive Asian Reed Scale, Nipponclerda biwakoensis, attacks stressed Roseau Cane on the Gulf Coast, USA
 Author: Jennifer Soukup
 
+### Panel Summary
+
+*Intellectual merit:*
+In this proposal the author will study the effects of an invasive insect, the Reed Scale, on a native plant, the Roseau Cane. The author will test if the presence of the Reed Scale impacts the Roseau Cane’s ability to tolerate abiotic stressors and if that tolerance is different across plant lineages. The main hypothesis is that the insect reduces the amount of sugars in plants, which will then reduce the ability of the plants to cope with variation in salinity and eutrophication.
+Intellectual merit:
+
+*Strengths:*
+Panelists concurred that the invasion by the Reed Scale and its effects on the Roseau Cane is an ideal system to learn about invasive biology in action and to test for the effects of herbivory on decreasing plant’s reserves, which then limits the ability of the plants to cope with variation in salinity and eutrophication. The proposal has clear objectives and the methods will likely answer the posed questions. The study of the physiological variation between lineages provides a framework to test for ecological consequences of evolutionary processes. A strength of the proposed study is the detailed look at sugar storage and osmoregulation in the Roseau Cane and how it is affected by the reed scale. 
+
+*Weaknesses:*
+A major criticism is that the author does not provide information on how resistance is going to be measured and there is not a clear plan to use genomics to enhance the ecological work. Panelists consider that the changes in sugar distribution that the Reed Scale provokes on the Roseau Cane could result from physiological rearrangements that likely correlate with gene expression variation. Given that the two lineages vary in the response to herbivores, it is likely that these gene expression responses have already diverged across lineages.  A study of gene expression variation during herbivory could complement the ecological work by providing an understanding of the physiological mechanisms at play during sugar redistribution. Another comment was that it was not clear  whether the study considers comparing the physiological response in both the native and the introduce lineage or only one of them.   Panelists also recommend improving the writing with a description of the experiments and a thorough proofreading. It should also include a summary statement that introduces the reader to the proposal. 
+ 
+*Broader impacts:*
+
+*Strengths:*
+The idea of using a communicating center to generate a press release was found positive. Given that in RI the invasive form of the Roseau Cane is common, the communications from the research could be applicable. 
+ 
+*Weaknesses:*
+Broader impacts were not clearly stated. The proposal could be improved if the section about the implications of this research on coastal wetlands and the section on outreach are combined and stated at the beginning of the proposal with a strong summary of what the project is about. Panelists found that since the work is going to be done mostly in Louisiana, it would be appropriate to generate press releases also in the area where the Reed Scale is common. Why this project will matter for conservation of wetlands should be more explicitly stated in the proposal.
+ 
+*Summary:*
+ 
+The proposed research has the potential to provide unique contributions to wetland ecology and invasive biology and will likely be beneficial for managers working on coastal restoration. The panel advices to take advantage of the excellent ecological work, already underway, and add a physiological and genomic perspective that would allow to identify the mechanisms underlying sugar reorganization by the plants during herbivore interactions and how it changes across plant lineages. The panel also advises the author to more clearly state the broader impacts and the general implications of her research for wetland conservation.
+The summary was read by/to the panel and the panel concurred that the summary accurately reflects the panel discussion.
+********
 
 ### Reviewer 1
 
