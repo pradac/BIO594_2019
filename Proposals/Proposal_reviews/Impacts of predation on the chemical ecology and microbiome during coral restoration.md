@@ -2,6 +2,56 @@
 
 Principal Investigator: Cassie Raker
 
+## Panel summary
+
+## Overview:
+
+The aim of this proposal is to quantify the chemical cues of fragmented corals from the
+Mote lab in the florida keys with regards to parrotfish predation. The PI of this proposal has
+observed how parrotfish were predating coral fragments that were recently placed in a coral
+garden by Mote lab while seeming to leave older fragments alone. She noticed that, specifically,
+after one month predation by parrotfish was reduced. This study plans to: 1) quantify the time
+period where acclimating corals are less likely to be predated, 2) determine the chemical
+compounds in lab raised, unacclimated, and acclimated corals, 3) determine the changes in
+microbial diversity in lab raised, unacclimated, and acclimated coral fragments.
+
+
+## Intellectual Merit:
+
+*Strengths:*
+This study will help to increase the survival of newly transplanted coral fragments as well
+as understand the complex biochemical processes that affect coral predation. This study could
+help make coral restoration practices in the florida keys more successful and more efficient.
+
+*Weaknesses:*
+
+The panel agreed that all three graphics could be smaller and the first two graphics were
+not as useful in framing your work in comparison to the third graphic. The panel also agreed that
+a map would have been helpful of where the lab was located as well as a graphic of your study
+design would have been very helpful with regards to conceptualizing your experimental design.
+The panel also agreed that it would be interesting to take a subset of the acclimated corals and
+place them back into the lab setting to see if the microbiome would change.
+
+
+*Broader Impacts:*
+
+*Strengths:*
+
+Broader impacts were very good and incorporated outreach for students/organizations at
+both URI and the communities in the florida keys. Additionally, broader impacts include using
+the results from the study to improve an established workshop curriculum for coral scientists
+from around the world.
+
+*Weaknesses:*
+
+While not necessarily a weakness, this study could definitely take advantage of social
+media as well. Taking pictures of tours, coral work, being out on the reef, the workshops, etc.
+can be very beneficial for spreading the word on this study and the benefits it could have on coral
+restoration.
+
+Overall, the panel agreed that this proposal and study is very thorough and well executed with
+regards to scientific outreach and intellectual merit.
+*********
 ### Reviewer 1
 Rating: Very Good
 
