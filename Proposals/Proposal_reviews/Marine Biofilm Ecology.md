@@ -1,6 +1,38 @@
 ## Marine Biofilm Ecology: Inferring habitat quality in artificial and natural marine ecosystems
 Principal Investigator: Elaine Shen
 
+### Panel Summary
+###### *Overview*
+
+This proposal aimed to study the effect of manmade and natural surfaces on the establishment of marine biofilms communities on coral reefs. The first aim was to compare biofilm composition over time on different substrates. The second aim sought to characterize the functional and metabolic properties of these biofilms and how they affect the future settlement of sessile marine invertebrates.
+
+###### *Intellectual merit*
+
+*Strengths*
+
+This proposal addressed the unknown suitability of manmade surfaces use for artificial reefs in a novel way. There is a well thought-out experimental design that helps explain how the PI will answer each of her aims, both from a spatiotemporal scale and a functional perspective. There is a clear connection between the biological problem under study and its potential for reef restoration efforts. The PI plans to integrate a breadth of approaches that range from classical community ecology to the use of microbial metabarcoding to environmental DNA.
+
+*Weaknesses*
+
+Although a great emphasis was placed on collecting all biological information possible, environmental data was left out. Monitoring basic non-biological parameters during the experiment could contribute to make sense of ecological succession on reefs. It was not clear why there is an intense sampling effort during the first stages of the experiment but then it decreases just to few samples over the second year. Additionally, as stated by the PI, the use of replicates for each substrate is not clear. Lastly, the inclusion of a figure or graph would have been helpful for the reader.
+
+###### *Broader Impacts*
+
+*Strengths*
+
+The PI clearly plans to include and involve underrepresented minorities in different aspect of the research. The project also has a strong mentoring plan for undergraduate students to foster scientific education and reproducible science. 
+
+*Weaknesses*
+
+The main weaknesses were a lack of outreach activities that aimed at involving the non-scientific community. Also, the proposal did not state a well-defined strategy to effectively involve underrepresented minorities in the project. 
+
+###### *Summary*
+
+All panelist agreed this was a strong proposal with clear aims and an innovative approach to study ecological succession on manmade structures on coral reefs. 
+
+******
+
+
 ### Reviewer 1
 
 *What is the intellectual merit of the proposed activity?*
