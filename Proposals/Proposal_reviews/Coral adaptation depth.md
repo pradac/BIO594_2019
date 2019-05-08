@@ -1,6 +1,31 @@
 ## Selection across depths in Corals
 Principal Investigator: Matias Gomez
 
+## Panel summary
+
+**Proposal Objectives**  
+This proposal is concerned with assessing the strength of selection and adaptation to depth of the Caribbean reef forming coral species Orbicella faveolata using transects and reciprocal transplant experiments. The results of this investigation are to be used in informing the potential for use of deep water corals in restoration of shallow reefs.
+
+**Intellectual Merit**  
+_Strengths_  
+The need to inform reef restoration practices is apparent, as reefs continue to decline globally, and especially in the Caribbean. Additionally, understanding the underlying genetic and potentially adaptive signatures of a wide-spread coral that does inhabit different reef habitats is important for understanding diverse reefs. If shallow and deep water Orbicella show vastly different genetic signals, there is a potential that a transplant of surviving deep water corals to degraded shallow reefs would not work. The choice of Orbicella is a logical one, where it is a species of concern, but present widely across the Caribbean, and there are existing genomic resources to bolster data analysis.
+
+_Weaknesses_  
+The main criticism is that the aims of the proposal seem to be posed to answer a question about local adaptation, and this is not related back to the broader goal of reef restoration. It also seems like the author is hypothesizing that the corals will be locally adapted, and therefore will not help restoration efforts, which seems to counter the larger goal. There has been a fair amount of research on the deep reef refugia hypothesis that generally says that it would be very site and species specific. There was also very little in the background or the methods about the proposed investigations in symbiont type, and that could actually be developed into a full aim. One thing to note is that it seemed like the proposal started as trying an interesting technique, and then the question and system to apply it to was thought of afterwards.
+
+**Broader Impacts**  
+_Strengths_  
+The established connections with specific coral farms in the US Virgin Islands and Puerto Rico is a good strength for the proposal.
+
+_Weaknesses_  
+There was not very much in the broader impacts and that was something we all noticed. This section definetely needs to be expanded upon. More effort should be put into involving the RI community or the communities around where the study sites are in the research or in reef-restoration efforts.
+
+**Summary**  
+Overall, this was a good  proposal and the panel thought it was clear that the author had a good understanding of genomic techniques. The main thing that could be improved upon was tying in the aims to the methods better, to be clear about how the data and analysis will feed back into the aims.
+**********
+
+
+
 ### Reviewer 1
 Rating: Very good
 
