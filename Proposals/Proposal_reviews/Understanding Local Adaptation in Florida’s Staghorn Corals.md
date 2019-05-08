@@ -1,6 +1,36 @@
-### Understanding Local Adaptation in Florida’s Staghorn Corals
+## Understanding Local Adaptation in Florida’s Staghorn Corals
 
 Principal Investigator: Erin Chille
+
+
+#### Proposal Objectives
+This proposal seeks to characterize genetic population differentiation among staghorn corals from reefs spanning the Florida Keys. The PI hypothesizes that habitat variability along this transect will correspond to population structure, driven by local adaptation. A better understanding of the population structure and how it shapes adaptive potential will facilitate conservation efforts in the region going forward, as these corals are often used in reef restoration.
+
+#### Intellectual Merit
+*Strengths*
+The author has chosen a major coral reef builder with considerable population genomic research available to take advantage of. The author set up the introduction to the experiment well, clearly identifying the urgency of the research regarding coral conservation and what would need to be done in the future.
+
+*Weaknesses*
+The main criticism of this proposal is that it is not specific enough. While the story is generally set up well, the proposed experimental design is minimal, and you have the room to tell us a bit more, how it’s different from previous work. Aim 2 in particular was unclear. It would have helped the panel if this section included what particular hypotheses would be tested as they relate to differences in gene ontology. In terms of methodology, one member of the panel noted that for cross-comparison with previous research, the PI might attempt using GBS the same technique used in the previous cited articles. Whether or not the method changes, it would be helpful to have a clearer rationale for the use of either method. The experimental design and explanation/justification for each step should take up most of the 5 pages of proposal because of all the detail that needs to be included.
+
+Another criticism of this proposal is that it seems to follow up on a good deal of research in the area by Drury (several papers on Key populations in the past 5 years), reducing the novelty of the proposed research. Several possible ideas came up during the panel that might propel this proposal forward into more novel research. What if the researcher examined how gradual or abrupt population structure was across the Keys? Evidence suggests that there is not a gradual latitudinal cline, so maybe testing for isolation-by-distance (IBD) or strong regional association with a gradient in a particular environmental variable might be a fruitful avenue of research.
+
+#### Broader Impacts
+*Strengths*
+The intention to involve students at different stages of their academic career is a good one. Also the idea to target a broad set of stakeholders, from students to researchers to program managers via the Coral Restoration Consortium (CRC) is well considered.
+
+*Weaknesses*
+It is always a good idea to be as concrete as possible. You did this while talking about the CRC, but what about including specific universities, student groups, scientific groups that advocate for underprivileged students. Maybe students at your own university and those from the Keys?
+
+#### A few more notes from the panel:
+-	There was confusion about the mention of the disease early in the background section, possibly not necessary.
+-	Maybe re-orient work toward comparing genomics of regions with more or less diversity, what are the differences between these types of systems? In this way you’re homing in on application of our current understanding of population structure .
+-	Will possibly need more sampling to implement proposed radseq methods.
+-	consider adapting the graphic you’ve borrowed from Drury to overlay your proposed sampling sites. will help panel understand your experimental design but also will demonstrate that you’re not making a redundant sampling effort.
+*****
+
+
+
 
 ## Reviewer 1
 Rating: Good
